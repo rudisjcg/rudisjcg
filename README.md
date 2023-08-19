@@ -2,9 +2,7 @@
 <div align='center'>
   
 <h1 align='center'>Hi, I'm RudisDev</h1>
-![banner](https://github.com/krakatua/krakatua/assets/82242977/88d1d013-45f0-4325-b25b-03a4e288e9a3)
-
-
+![banner](https://github.com/krakatua/krakatua/assets/82242977/5d027a0f-59bd-4903-a909-f914f7e68f3e)
 
 <h3 align='center'>Software engineer, focused on web development. I love creating user-friendly applications or web pages and challenging myself with complex projects for my growth as a developer. Always learning new things.</h3>
 
@@ -33,8 +31,6 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Git" **alt="Git" width="40" height="40"/>
