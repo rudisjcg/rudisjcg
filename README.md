@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **C#**, **.NET**
 
-- 👨‍💻  <a href="rudis-cordones.es">Website </a> 
+- 👨‍💻 Website **rudis-cordones.es** 
 
 - 💬 Ask me about **React**, **JavaScript**, **Firebase**, **UI/UX**
 
