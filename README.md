@@ -1,7 +1,8 @@
 
 
 <h1 align='center'>Hi, I'm RudisDev</h1>
-![image](https://github.com/krakatua/krakatua/assets/82242977/fe503881-832d-4611-9e97-0c905b6741e4)
+![image](https://github.com/krakatua/krakatua/assets/82242977/f6ea085b-9d82-4a97-b5e4-d5fc4b201348)
+
 
 
 
