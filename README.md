@@ -1,11 +1,55 @@
 
-
+<div align='center'>
+  
 <h1 align='center'>Hi, I'm RudisDev</h1>
-
 ![banner](https://github.com/krakatua/krakatua/assets/82242977/e2a9dceb-9d90-4d00-9baf-1e861bb10ae9)
 
+<h3 align='center'>Software engineer, focused on web development. I love creating user-friendly applications or web pages and challenging myself with complex projects for my growth as a developer. Always learning new things.</h3>
+
+</div>
 
 
+### 👨‍💻 About Me :
+
+- 📝 I work as a web developer
+
+- 📫 How to reach me **rudisjcg@gmail.com**
+
+- 🌱 I’m currently learning **C#**, **.NET**
+
+- 👨‍💻 Website rudis-cordones.es
+
+- 💬 Ask me about **React**, **JavaScript**, **Firebase**, **UI/UX**
+
+<div align="left">
+    <h3>🔨 Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      </div>
+</div>
+
+
+
+
+---
+
+### 📊 My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=krakatua&theme=onedark)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=krakatua&show_icons=true&theme=radical)
 
 
 
