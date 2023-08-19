@@ -2,7 +2,7 @@
 <div align='center'>
   
 <h1 align='center'>Hi, I'm RudisDev</h1>
-![banner](https://github.com/krakatua/krakatua/assets/82242977/5d027a0f-59bd-4903-a909-f914f7e68f3e)
+<img src="https://github.com/krakatua/krakatua/assets/82242977/5d027a0f-59bd-4903-a909-f914f7e68f3e" width="full"/>
 
 <h3 align='center'>Software engineer, focused on web development. I love creating user-friendly applications or web pages and challenging myself with complex projects for my growth as a developer. Always learning new things.</h3>
 
