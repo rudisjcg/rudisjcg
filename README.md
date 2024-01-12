@@ -36,6 +36,22 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Git" **alt="Git" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
 
