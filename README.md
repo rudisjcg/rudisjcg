@@ -64,8 +64,8 @@
 
 ### 📊 My Stats :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rudisjcg&show_icons=true&theme=radical)
-
-
+![rudisjcg's Stats](https://github-readme-stats.vercel.app/api?username=rudisjcg&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![rudisjcg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudisjcg&theme=vue-dark&hide_border=true)
 
 
 
