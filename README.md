@@ -4,80 +4,269 @@
 <h1 align='center'>Hi, I'm Rudis</h1>
 <img width="full" height="406" alt="image" src="https://github.com/user-attachments/assets/f257200c-0d33-4780-88be-beb23414b13a" />
 
-<h2 align='center'>Software engineer, focused on web development. I love creating user-friendly applications or web pages and challenging myself with complex projects for my growth as a developer. Always learning new things.</h2>
+ <div align="center">
+
+# 👋 Hey, I'm Rudis Cordones
+
+### Software Engineer · Full Stack Developer · Shopify & SaaS Engineer
+
+**Building scalable web applications, headless commerce experiences, and AI-powered products.**
+
+<a href="[https://rudis-cordones.es](https://rudis-portfolio.vercel.app/)">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/rudis-world/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:rudisjcg@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=rudisjcg&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
-
-
-### 👨‍💻 About Me :
-
-- 📝 I work as a web developer
-
-- 📫 How to reach me **rudisjcg@gmail.com**
-
-- 🌱 I’m currently learning **C#**, **.NET**
-
-- 👨‍💻 Website **rudis-cordones.es** 
-
-- 💬 Ask me about **React**, **JavaScript**, **Firebase**, **UI/UX**
-
-
-<div align="left">
-  <h3>🔨 Languages and Tools:</h3>
-    <div align="center" dir="auto">
-<p dir="auto"><strong>Frontend</strong></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3dbabc08ed45710d99bd94fb3f903e990aaa6a19137056abb084fdeaeb52c558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"><img src="https://camo.githubusercontent.com/3dbabc08ed45710d99bd94fb3f903e990aaa6a19137056abb084fdeaeb52c558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" alt="React" data-canonical-src="https://img.shields.io/badge/-React-282A36?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5bd928e881c704e85e923b245931a0dc51f542d7b2ef46840a7bc4f1f2354744/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6578742e6a732d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/5bd928e881c704e85e923b245931a0dc51f542d7b2ef46840a7bc4f1f2354744/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6578742e6a732d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465" alt="Next.js" data-canonical-src="https://img.shields.io/badge/-Next.js-282A36?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f913ad04dbbc2f5fd0d56b8f754c49521405c2e5aa76e1ac8b732bfb23df510b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d417374726f2d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d617374726f266c6f676f436f6c6f723d424335324545"><img src="https://camo.githubusercontent.com/f913ad04dbbc2f5fd0d56b8f754c49521405c2e5aa76e1ac8b732bfb23df510b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d417374726f2d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d617374726f266c6f676f436f6c6f723d424335324545" alt="Astro" data-canonical-src="https://img.shields.io/badge/-Astro-282A36?style=for-the-badge&amp;logo=astro&amp;logoColor=BC52EE" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/72cca5ef538431cff1cbcb53d1b763fa35615b7121d8e70bb00de99ca47c6bba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d333137384336"><img src="https://camo.githubusercontent.com/72cca5ef538431cff1cbcb53d1b763fa35615b7121d8e70bb00de99ca47c6bba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d333137384336" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/-TypeScript-282A36?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ca3b380683df004ff8331438e340a5f507b6153f1a1da6440db357abfdea249f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145"><img src="https://camo.githubusercontent.com/ca3b380683df004ff8331438e340a5f507b6153f1a1da6440db357abfdea249f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-282A36?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e6d6e1f4948ec28a56d45c741af932778f4093c6df0d7f7eb6a1abe92d7f3202/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e642d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e64637373266c6f676f436f6c6f723d333842324143"><img src="https://camo.githubusercontent.com/e6d6e1f4948ec28a56d45c741af932778f4093c6df0d7f7eb6a1abe92d7f3202/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e642d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e64637373266c6f676f436f6c6f723d333842324143" alt="Tailwind" data-canonical-src="https://img.shields.io/badge/-Tailwind-282A36?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=38B2AC" style="max-width: 100%;"></a></p>
-<p dir="auto"><strong>Backend</strong></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bb19fa62e607c8c828c09507328f054a6e7dec68cfeeb64594d6fc8b6f4a834a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d333339393333"><img src="https://camo.githubusercontent.com/bb19fa62e607c8c828c09507328f054a6e7dec68cfeeb64594d6fc8b6f4a834a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d333339393333" alt="Node.js" data-canonical-src="https://img.shields.io/badge/-Node.js-282A36?style=for-the-badge&amp;logo=node.js&amp;logoColor=339933" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0c2f63a2e93d127e3adacea85de4a99eb17d3e24d676b0b57cb46acc81692aab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d333737364142"><img src="https://camo.githubusercontent.com/0c2f63a2e93d127e3adacea85de4a99eb17d3e24d676b0b57cb46acc81692aab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d333737364142" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-282A36?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/77d708ede16788a1026fa7120d579a837093035cfbb868d2912fc8c65ec33498/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457870726573732d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/77d708ede16788a1026fa7120d579a837093035cfbb868d2912fc8c65ec33498/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457870726573732d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465" alt="Express" data-canonical-src="https://img.shields.io/badge/-Express-282A36?style=for-the-badge&amp;logo=express&amp;logoColor=white" style="max-width: 100%;"></a></p>
-<p dir="auto"><strong>Data &amp; Analytics</strong></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d63f8c5b93e46a8efc01d663bd32beab0394e61510bccbae29ce49293cd1bd4e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d463243383131"><img src="https://camo.githubusercontent.com/d63f8c5b93e46a8efc01d663bd32beab0394e61510bccbae29ce49293cd1bd4e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d463243383131" alt="Power BI" data-canonical-src="https://img.shields.io/badge/-Power%20BI-282A36?style=for-the-badge&amp;logo=powerbi&amp;logoColor=F2C811" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4b5ebb2832b7aefa8a220ec34228e4dccd9ce75d11c3ed4499150f4a200cdd2a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50616e6461732d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/4b5ebb2832b7aefa8a220ec34228e4dccd9ce75d11c3ed4499150f4a200cdd2a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50616e6461732d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" alt="Pandas" data-canonical-src="https://img.shields.io/badge/-Pandas-282A36?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2b54e7051e0c10bfbf909a03c39dff1265af1ee9d1d5a808c3b14b6dbdb2da88/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e756d50792d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d303133323433"><img src="https://camo.githubusercontent.com/2b54e7051e0c10bfbf909a03c39dff1265af1ee9d1d5a808c3b14b6dbdb2da88/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e756d50792d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d303133323433" alt="NumPy" data-canonical-src="https://img.shields.io/badge/-NumPy-282A36?style=for-the-badge&amp;logo=numpy&amp;logoColor=013243" style="max-width: 100%;"></a></p>
-<p dir="auto"><strong>Databases</strong></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/78571c984f77ca5186f0895ed24e40c2a9174481e0ae187e6a638b1a47231f70/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d343136394531"><img src="https://camo.githubusercontent.com/78571c984f77ca5186f0895ed24e40c2a9174481e0ae187e6a638b1a47231f70/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d343136394531" alt="PostgreSQL" data-canonical-src="https://img.shields.io/badge/-PostgreSQL-282A36?style=for-the-badge&amp;logo=postgresql&amp;logoColor=4169E1" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2dcecf777269e80d8617ed87243ce192e9aa3816be0596f586fb2a58e648a467/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d343437394131"><img src="https://camo.githubusercontent.com/2dcecf777269e80d8617ed87243ce192e9aa3816be0596f586fb2a58e648a467/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d343437394131" alt="MySQL" data-canonical-src="https://img.shields.io/badge/-MySQL-282A36?style=for-the-badge&amp;logo=mysql&amp;logoColor=4479A1" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6f4b13c37d748d2bbd72a61f37d549530d82efc5c883648f2a86360f4136dfc8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2532305365727665722d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d73716c2d736572766572266c6f676f436f6c6f723d434332393237"><img src="https://camo.githubusercontent.com/6f4b13c37d748d2bbd72a61f37d549530d82efc5c883648f2a86360f4136dfc8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2532305365727665722d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d73716c2d736572766572266c6f676f436f6c6f723d434332393237" alt="SQL Server" data-canonical-src="https://img.shields.io/badge/-SQL%20Server-282A36?style=for-the-badge&amp;logo=microsoft-sql-server&amp;logoColor=CC2927" style="max-width: 100%;"></a></p>
-<p dir="auto"><strong>Tools &amp; DevOps</strong></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b996c47cc1100de612e997a23257eb63f2d02b82e875c928ecbbb2f861f2bcd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d463035303332"><img src="https://camo.githubusercontent.com/b996c47cc1100de612e997a23257eb63f2d02b82e875c928ecbbb2f861f2bcd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d463035303332" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-282A36?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/abd9ec3533d78471dec1557da39554063ed417ed2de5042e6dd6c905f309d514/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d323439364544"><img src="https://camo.githubusercontent.com/abd9ec3533d78471dec1557da39554063ed417ed2de5042e6dd6c905f309d514/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d323439364544" alt="Docker" data-canonical-src="https://img.shields.io/badge/-Docker-282A36?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4089080590968c6cc140ab82a0d40be996af2b7c5fb32f4599080a0b8cbfa17c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343"><img src="https://camo.githubusercontent.com/4089080590968c6cc140ab82a0d40be996af2b7c5fb32f4599080a0b8cbfa17c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" alt="VS Code" data-canonical-src="https://img.shields.io/badge/-VS%20Code-282A36?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/379669a6e2049153bd5fc53b526bd1cfe54e6b22554fe2329c955d9b60618cb4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56657263656c2d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/379669a6e2049153bd5fc53b526bd1cfe54e6b22554fe2329c955d9b60618cb4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56657263656c2d3238324133363f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" alt="Vercel" data-canonical-src="https://img.shields.io/badge/-Vercel-282A36?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" style="max-width: 100%;"></a></p>
-</div>
-
- 
-</div>
-
-
-
 
 ---
 
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">📊 GitHub Stats</h3><a id="user-content--github-stats" class="anchor" aria-label="Permalink: 📊 GitHub Stats" href="#-github-stats"><svg data-component="Octicon" class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+## `$ whoami`
 
-<div align="center" dir="auto">
-  
+I'm a Software Engineer with **4+ years of experience** building modern web applications, backend services, e-commerce solutions, and SaaS products.
+
+My work goes beyond writing code. I design application architecture, build APIs, integrate third-party services, optimize performance, and turn business requirements into production-ready features.
+
+I work primarily with the **React, Next.js, TypeScript, and Node.js ecosystem**, alongside Shopify's commerce platform, cloud infrastructure, databases, and AI integrations.
+
+- 🔭 **Currently building:** SaaS products, Shopify applications, and AI-powered features.
+- 🛍️ **Commerce:** Shopify themes, Headless Commerce, Liquid, GraphQL, and custom integrations.
+- ⚙️ **Backend:** REST APIs, authentication, webhooks, database architecture, and multi-tenant systems.
+- 🤖 **AI:** LLM integrations, AI assistants, and development automation.
+- ☁️ **Infrastructure:** Docker, AWS, Google Cloud, Vercel, and Cloudflare.
+- 🌱 **Expanding my skills:** C#/.NET, application security, and AI engineering.
+- 🌎 **Based in:** Dominican Republic · Open to international opportunities.
+
+---
+
+## ⚡ What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ E-commerce Engineering
+
+Custom Shopify experiences, Liquid themes, reusable storefront components, Admin API integrations, GraphQL, webhooks, and performance optimization.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 SaaS & Full Stack
+
+End-to-end applications, multi-tenant architecture, dashboards, role-based permissions, PostgreSQL, authentication, and scalable business workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Automation
+
+LLM-powered features, conversational assistants, API orchestration, workflow automation, and AI-assisted development.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend & Infrastructure
+
+REST APIs, database design, caching, Docker, cloud deployments, secure integrations, and production troubleshooting.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+
+<div>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,astro,html,css,tailwind,redux" alt="React, Next.js, TypeScript, JavaScript, Astro, HTML, CSS, Tailwind CSS and Redux" />
 </div>
 
+**Also work with:** Zustand, TanStack React Query, Material UI, Chakra UI, shadcn/ui, Radix UI, Framer Motion, and GSAP.
 
+### Backend & Languages
 
-<!--
-**krakatua/krakatua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,cs,dotnet,python" alt="Node.js, Express, NestJS, C#, .NET and Python" />
+</div>
 
-Here are some ideas to get you started:
+**Core skills:** API development, GraphQL, webhooks, authentication, authorization, background jobs, integrations, and modular architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Databases & Data
+
+<div>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,firebase" alt="PostgreSQL, MongoDB, MySQL, Redis, Supabase and Firebase" />
+</div>
+
+**Also work with:** SQL Server, relational data modeling, indexing, query optimization, database migrations, and access control.
+
+### Shopify & Commerce
+
+<div>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Liquid-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Liquid" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Storefront_API-121212?style=for-the-badge&logo=shopify&logoColor=white" alt="Storefront API" />
+  <img src="https://img.shields.io/badge/Shopify_Functions-5E8E3E?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Functions" />
+</div>
+
+Custom themes and sections, Shopify Admin API, Storefront API, metafields, metaobjects, theme app extensions, webhooks, headless storefronts, and custom commerce functionality.
+
+### Cloud, DevOps & Tools
+
+<div>
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,vercel,railway,git,github,githubactions,linux" alt="Docker, AWS, Google Cloud, Cloudflare, Vercel, Railway, Git, GitHub, GitHub Actions and Linux" />
+</div>
+
+**Also work with:** S3, IAM, CloudFront, VS Code, Cursor, Claude, Jira, Figma, pnpm, npm, and CI/CD workflows.
+
+### AI, Payments & Integrations
+
+<div align="left">
+  <img src="https://img.shields.io/badge/LLM-Integrations-7C3AED?style=for-the-badge" alt="LLM integrations" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" />
+</div>
+
+AI APIs and assistants, payment workflows, transactional email, authentication providers, external services, and event-driven integrations.
+
+---
+
+## 🚀 Featured Projects
+
+### 💳 LendTrack Pro
+
+**A lending management SaaS platform**
+
+Building a platform to help lenders manage loan operations and borrower workflows.
+
+- Full-stack development with Next.js, TypeScript, PostgreSQL, and Supabase.
+- Multi-tenant architecture and tenant-scoped data access.
+- Borrower application flows, lender dashboards, and configurable experiences.
+- Authentication, authorization, database security, and AI feature foundations.
+
+**Stack:** `Next.js` `TypeScript` `PostgreSQL` `Supabase` `AI`
+
+### 🛍️ Shopify Engineering
+
+**Custom commerce experiences and optimization**
+
+Building custom storefront functionality and integrations for production e-commerce stores.
+
+- Custom Shopify themes, sections, blocks, and Liquid components.
+- Admin API, GraphQL, webhooks, and product data integrations.
+- AI-powered customer experiences and conversion-oriented UI/UX.
+- Technical SEO, media optimization, and performance improvements.
+
+**Stack:** `Shopify` `Liquid` `JavaScript` `TypeScript` `GraphQL`
+
+### ⚡ Media Optimization for Shopify
+
+**An optimization workflow for e-commerce assets**
+
+Exploring a Shopify app that identifies inefficient product images and video assets, evaluates optimization opportunities, and streamlines the process of delivering optimized media.
+
+- Asset inventory and optimization status tracking.
+- Image format conversion and responsive media strategies.
+- Video compression and file-size reduction.
+- Shopify asset replacement workflows with validation.
+
+**Stack:** `Shopify APIs` `Node.js` `TypeScript` `Image Optimization`
+
+---
+
+## 📈 Engineering Impact
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h2>450%+</h2>
+<strong>Sales Growth</strong>
+<br/>
+<sub>Reported growth across two middle quarters of 2025 in a Shopify project.</sub>
+</td>
+<td align="center" width="33%">
+<h2>29 MB → 1 MB</h2>
+<strong>Media Optimization</strong>
+<br/>
+<sub>Reduced the size of video assets through optimization.</sub>
+</td>
+<td align="center" width="33%">
+<h2>4+ Years</h2>
+<strong>Development Experience</strong>
+<br/>
+<sub>Full-stack, e-commerce, APIs, and product engineering.</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/rudisjcg">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rudisjcg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rudis's GitHub statistics" />
+</a>
+<a href="https://github.com/rudisjcg">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudisjcg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rudisjcg&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rudisjcg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 🧠 How I Work
+
+- 🧩 **Architecture:** Prefer modular, maintainable solutions over unnecessary complexity.
+- 🔐 **Security:** Prioritize validation, authorization, secret management, and secure data access.
+- ⚡ **Performance:** Optimize rendering, network requests, database queries, and media delivery.
+- 🤝 **Collaboration:** Work with Git, pull requests, Agile methodologies, and iterative delivery.
+- 📚 **Growth:** Continuously explore better engineering practices and emerging technologies.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in challenging opportunities involving **Full Stack Engineering, Shopify & Headless Commerce, SaaS architecture, backend development, and AI integrations**.
+
+<div align="center">
+
+<a href="https://rudis-cordones.es">
+  <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" />
+</a>
+
+<a href="https://www.linkedin.com/in/rudis-world/">
+  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+
+**Building something interesting? Let's talk.**
+
+</div>
+
